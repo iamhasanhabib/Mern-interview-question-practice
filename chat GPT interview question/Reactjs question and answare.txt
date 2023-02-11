@@ -1,0 +1,129 @@
+What is ReactJS and what is it used for?
+Can you explain the concept of Virtual DOM in ReactJS?
+Can you explain the difference between state and props in ReactJS?
+Can you explain the lifecycle methods of a React component?
+How does ReactJS handle forms and controlled components?
+Can you explain the difference between server-side rendering and client-side rendering in ReactJS?
+Can you explain the concept of Higher Order Components (HOC) in ReactJS?
+What is the difference between ReactJS and React Native?
+Can you explain the concept of JSX in ReactJS?
+Can you explain how to handle asynchronous actions in ReactJS?
+Can you explain the difference between a functional component and a class component in ReactJS?
+What is the purpose of React Router and how does it work?
+Can you explain the concept of Redux and how does it work with ReactJS?
+Can you explain the concept of Context API in ReactJS?
+Can you explain the concept of Portals in ReactJS?
+Can you explain the concept of Strict Mode in ReactJS?
+Can you explain the concept of Refs in ReactJS?
+Can you explain the difference between inline styles and CSS styles in ReactJS?
+Can you explain the concept of Lazy Loading in ReactJS?
+Can you explain the concept of Server Side Rendering in ReactJS?
+Can you explain the concept of React Hooks and how they are used?
+Can you explain the difference between Pure Components and Regular Components in ReactJS?
+Can you explain how ReactJS handles performance optimization?
+Can you explain how ReactJS handles server-side rendering?
+Can you explain the difference between ReactJS and AngularJS?
+Can you explain the difference between ReactJS and VueJS?
+Can you explain how ReactJS implements its own event system?
+Can you explain how ReactJS handles data flow and updates?
+Can you explain the difference between render and return in ReactJS?
+Can you explain the concept of Error Boundaries in ReactJS?
+Can you explain the concept of the React Fragment and why it is used?
+Can you explain the difference between ReactJS and React Native for building mobile apps?
+Can you explain the concept of Suspense in ReactJS?
+Can you explain the difference between ReactJS and Svelte?
+Can you explain how to use ReactJS with GraphQL?
+Can you explain the concept of memoization in ReactJS?
+Can you explain the difference between uncontrolled and controlled components in ReactJS?
+Can you explain the difference between ReactJS and jQuery?
+Can you explain the difference between ReactJS and Polymer?
+Can you explain how to implement animations in ReactJS?
+Can you explain how to integrate ReactJS with other libraries and frameworks?
+Can you explain how to test ReactJS components?
+Can you explain how to implement server-side rendering with ReactJS?
+Can you explain how to implement real-time updates with ReactJS?
+Can you explain how to implement accessibility in ReactJS?
+Can you explain how to implement internationalization (i18n) in ReactJS?
+Can you explain how to use ReactJS with TypeScript?
+
+Here are 50 important React Hooks interview questions:
+
+Can you explain what React Hooks are and why they were introduced?
+Can you explain how to use the useState hook in React?
+Can you explain how to use the useEffect hook in React?
+Can you explain how to use the useContext hook in React?
+Can you explain how to use the useReducer hook in React?
+Can you explain how to use the useRef hook in React?
+Can you explain how to use the useCallback hook in React?
+Can you explain how to use the useMemo hook in React?
+Can you explain the difference between useState and useReducer in React?
+Can you explain when to use useEffect and when to use useLayoutEffect in React?
+Can you explain how to pass a state value as a dependency in useEffect hook?
+Can you explain how to clean up an effect in React?
+Can you explain how to use the useImperativeHandle hook in React?
+Can you explain how to use the useDebugValue hook in React?
+Can you explain the difference between useState and useReducer hook in React?
+Can you explain the use case for useRef hook in React?
+Can you explain how to use the usePrevious hook in React?
+Can you explain how to use the useRerender hook in React?
+Can you explain how to use the useMutationEffect hook in React?
+Can you explain how to use the useEvent hook in React?
+Can you explain the use case for useContext hook in React?
+Can you explain how to use the useReducer hook for managing state in React?
+Can you explain how to use the useMemo hook for performance optimization in React?
+Can you explain how to use the useEffect hook for fetching data in React?
+Can you explain the difference between useEffect and componentDidMount in React?
+Can you explain how to use the useState hook for managing form inputs in React?
+Can you explain the benefits of using React Hooks over class components?
+Can you explain how to use the useEffect hook for setting up a subscription in React?
+Can you explain how to use the useEffect hook for handling componentDidUpdate in React?
+Can you explain how to use the useEffect hook for componentWillUnmount in React?
+Can you explain how to use the useState hook for managing toggle state in React?
+Can you explain how to use the useEffect hook for adding and removing event listeners in React?
+Can you explain how to use the useContext hook for data sharing between components in React?
+Can you explain how to use the useReducer hook for managing complex state in React?
+Can you explain how to use the useMemo hook for optimizing render performance in React?
+Can you explain how to use the useEffect hook for data fetching and update in React?
+Can you explain the difference between useEffect and componentWillUpdate in React?
+Can you explain how to use the useState hook for controlling modal state in React?
+Can you explain the use case for useRef hook in React for referencing DOM elements?
+Can you explain how to use the useEffect hook for controlling component updates in React?
+Can you explain how to use the useState
+
+Here are 50 important React functional component interview questions:
+
+Can you explain the difference between class components and functional components in React?
+Can you explain how to create a functional component in React?
+Can you explain how to use props in a functional component in React?
+Can you explain how to use state in a functional component in React?
+Can you explain how to use the useState hook in a functional component in React?
+Can you explain how to use the useEffect hook in a functional component in React?
+Can you explain how to use the useContext hook in a functional component in React?
+Can you explain how to pass data from a parent component to a child component using props in React?
+Can you explain how to handle events in a functional component in React?
+Can you explain how to use conditional rendering in a functional component in React?
+Can you explain how to use the map function to render a list in a functional component in React?
+Can you explain how to use the useReducer hook in a functional component in React?
+Can you explain how to use the useRef hook in a functional component in React?
+Can you explain how to use the useCallback hook in a functional component in React?
+Can you explain how to use the useMemo hook in a functional component in React?
+Can you explain how to handle forms in a functional component in React?
+Can you explain how to implement lifecycle methods in a functional component in React?
+Can you explain how to use the useEffect hook for data fetching in a functional component in React?
+Can you explain how to use the useEffect hook for componentDidUpdate in a functional component in React?
+Can you explain how to use the useEffect hook for componentWillUnmount in a functional component in React?
+Can you explain how to use the useContext hook for data sharing between components in a functional component in React?
+Can you explain how to use the useReducer hook for managing state in a functional component in React?
+Can you explain how to use the useMemo hook for performance optimization in a functional component in React?
+Can you explain the difference between useEffect and componentDidMount in a functional component in React?
+Can you explain the use case for useRef hook in a functional component in React?
+Can you explain how to use the useState hook for managing form inputs in a functional component in React?
+Can you explain how to use the useEffect hook for setting up a subscription in a functional component in React?
+Can you explain the benefits of using functional components over class components in React?
+Can you explain how to use the useState hook for managing toggle state in a functional component in React?
+Can you explain how to use the useEffect hook for adding and removing event listeners in a functional component in React?
+Can you explain how to use the useContext hook for data sharing between functional components in React?
+Can you explain how to use the useReducer hook for managing complex state in a functional component in React?
+Can you explain how to use the useMemo hook for optimizing render performance in a functional component in React?
+Can you explain how to use the useEffect hook for data fetching and update in a functional component in React?
+Can you explain the difference between useEffect and componentWillUpdate in a functional component in React?

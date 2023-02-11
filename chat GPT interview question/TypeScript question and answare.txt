@@ -1,0 +1,49 @@
+Here are 50 important TypeScript interview questions:
+
+Can you explain what TypeScript is and how it differs from JavaScript?
+Can you explain the benefits of using TypeScript over JavaScript?
+Can you explain how TypeScript adds type checking to JavaScript?
+Can you explain how to set up a project with TypeScript?
+Can you explain how to use interfaces in TypeScript?
+Can you explain how to use classes in TypeScript?
+Can you explain how to use inheritance in TypeScript?
+Can you explain how to use generics in TypeScript?
+Can you explain how to use enums in TypeScript?
+Can you explain how to use namespaces in TypeScript?
+Can you explain how to use type assertions in TypeScript?
+Can you explain how to use type guards in TypeScript?
+Can you explain how to use type inference in TypeScript?
+Can you explain how to use function types in TypeScript?
+Can you explain how to use destructuring in TypeScript?
+Can you explain how to use the spread operator in TypeScript?
+Can you explain how to use tuples in TypeScript?
+Can you explain how to use array types in TypeScript?
+Can you explain how to use the any type in TypeScript?
+Can you explain how to use the void type in TypeScript?
+Can you explain how to use the never type in TypeScript?
+Can you explain how to use the null and undefined types in TypeScript?
+Can you explain how to use type unions and intersection in TypeScript?
+Can you explain how to use type aliases in TypeScript?
+Can you explain how to use optional properties in TypeScript interfaces?
+Can you explain how to use optional parameters in TypeScript functions?
+Can you explain how to use default parameters in TypeScript functions?
+Can you explain how to use rest parameters in TypeScript functions?
+Can you explain how to use the keyof operator in TypeScript?
+Can you explain how to use mapped types in TypeScript?
+Can you explain how to use the typeof operator in TypeScript?
+Can you explain how to use the instanceof operator in TypeScript?
+Can you explain how to use the in operator in TypeScript?
+Can you explain how to use the as operator in TypeScript?
+Can you explain how to use the extends keyword in TypeScript?
+Can you explain how to use the implements keyword in TypeScript?
+Can you explain how to use decorators in TypeScript?
+Can you explain how to use type checking with third-party libraries in TypeScript?
+Can you explain how to use the module system in TypeScript?
+Can you explain how to use external modules in TypeScript?
+Can you explain how to use internal modules in TypeScript?
+Can you explain how to use the module resolution strategy in TypeScript?
+Can you explain how to use module augmentation in TypeScript?
+Can you explain how to use module loading in TypeScript?
+Can you explain how to use type checking with JSX in TypeScript?
+Can you explain how to use the --strict compiler option in TypeScript?
+Can you explain how to use type checking with async and await in TypeScript?

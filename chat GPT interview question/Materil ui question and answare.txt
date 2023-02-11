@@ -1,0 +1,45 @@
+Here are 50 important Material-UI interview questions:
+
+Can you explain what Material-UI is and what it's used for?
+Can you explain how to install and set up Material-UI in a project?
+Can you explain how to use the Grid component in Material-UI?
+Can you explain how to use the Paper component in Material-UI?
+Can you explain how to use the Typography component in Material-UI?
+Can you explain how to use the Button component in Material-UI?
+Can you explain how to use the Icon component in Material-UI?
+Can you explain how to use the Table component in Material-UI?
+Can you explain how to use the List component in Material-UI?
+Can you explain how to use the Form component in Material-UI?
+Can you explain how to use the TextField component in Material-UI?
+Can you explain how to use the Select component in Material-UI?
+Can you explain how to use the Checkbox component in Material-UI?
+Can you explain how to use the Radio component in Material-UI?
+Can you explain how to use the Switch component in Material-UI?
+Can you explain how to use the Slider component in Material-UI?
+Can you explain how to use the Menu component in Material-UI?
+Can you explain how to use the Dialog component in Material-UI?
+Can you explain how to use the Snackbar component in Material-UI?
+Can you explain how to use the Tabs component in Material-UI?
+Can you explain how to use the Stepper component in Material-UI?
+Can you explain how to use the Expansion Panel component in Material-UI?
+Can you explain how to use the Autocomplete component in Material-UI?
+Can you explain how to use the Chips component in Material-UI?
+Can you explain how to use the Tooltip component in Material-UI?
+Can you explain how to use the Progress component in Material-UI?
+Can you explain how to use the Avatar component in Material-UI?
+Can you explain how to use the Badge component in Material-UI?
+Can you explain how to use the Bottom Navigation component in Material-UI?
+Can you explain how to use the Card component in Material-UI?
+Can you explain how to use the Carousel component in Material-UI?
+Can you explain how to use the Expansion Panel component in Material-UI?
+Can you explain how to use the Collapse component in Material-UI?
+Can you explain how to use the Fade component in Material-UI?
+Can you explain how to use the Grow component in Material-UI?
+Can you explain how to use the Zoom component in Material-UI?
+Can you explain how to use the Modal component in Material-UI?
+Can you explain how to use the Pagination component in Material-UI?
+Can you explain how to use the Rating component in Material-UI?
+Can you explain how to use the Skeleton component in Material-UI?
+Can you explain how to use the Speed Dial component in Material-UI?
+Can you explain how to use the Tree View component in Material-UI?
+Can you explain how to use the theme in Material-UI?

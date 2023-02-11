@@ -1,0 +1,33 @@
+Can you explain what Redux Toolkit is and what it does?
+Can you describe the difference between Redux Toolkit and plain Redux?
+Can you explain how to set up a new project using Redux Toolkit?
+Can you explain how to create a simple state management using createSlice in Redux Toolkit?
+Can you explain how to use the createSlice function to handle asynchronous actions in Redux Toolkit?
+Can you explain how to use the createSlice function to handle complex state updates in Redux Toolkit?
+Can you explain the concept of immer in Redux Toolkit and how it can be used to simplify state updates?
+Can you explain how to use the createSlice function to manage form data in Redux Toolkit?
+Can you explain how to use the createSlice function to implement optimistic updates in Redux Toolkit?
+Can you explain the use of the configureStore function in Redux Toolkit and how it can be used to simplify store configuration?
+Can you explain the concept of the createEntityAdapter API in Redux Toolkit and how it can be used to manage entities in your application?
+Can you explain the concept of the createAsyncThunk API in Redux Toolkit and how it can be used to handle asynchronous actions in your application?
+Can you explain how to use the createAsyncThunk API to make API calls in Redux Toolkit?
+Can you explain how to handle errors in asynchronous actions using the createAsyncThunk API in Redux Toolkit?
+Can you explain how to implement pagination in Redux Toolkit?
+Can you explain the concept of the createSlice, createSelector, and useSelector functions in Redux Toolkit and how they can be used together?
+Can you explain how to use the createSelector function to compute derived data from your state in Redux Toolkit?
+Can you explain how to use the useSelector hook in React components to access the state from the Redux store in Redux Toolkit?
+Can you explain how to use the createSlice function to manage state updates with actions in Redux Toolkit?
+Can you explain the difference between createSlice and createReducer in Redux Toolkit?
+Can you explain how to implement undo/redo functionality in Redux Toolkit?
+Can you explain how to implement complex data structures in Redux Toolkit, such as trees and graphs?
+Can you explain how to handle server-side rendering in a Redux Toolkit-powered application?
+Can you explain how to handle real-time data updates in a Redux Toolkit-powered application?
+Can you explain how to test a Redux Toolkit store and its related components?
+Can you explain how to implement a production-ready Redux Toolkit store?
+Can you explain the trade-offs of using Redux Toolkit in a large-scale application?
+Can you explain how to manage shared state between multiple applications using Redux Toolkit?
+Can you explain the role of the immer library in Redux Toolkit and how it can be used to simplify state updates?
+Can you explain how to use the createSlice function to manage complex state updates in Redux Toolkit?
+Can you explain how to handle updates to arrays in Redux Toolkit using createSlice and immer?
+Can you explain how to handle updates to objects in Redux Toolkit using createSlice and immer?
+Can you

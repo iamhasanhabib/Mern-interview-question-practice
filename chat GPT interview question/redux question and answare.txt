@@ -1,0 +1,40 @@
+Can you explain what Redux is and what it does?
+Can you describe the role of the store in Redux?
+Can you explain the concept of actions and action creators in Redux?
+Can you explain the concept of reducers in Redux?
+Can you explain the concept of state immutability in Redux?
+Can you explain how to implement a simple Redux store?
+Can you explain how to dispatch actions in Redux?
+Can you explain how to handle asynchronous actions in Redux using middleware such as thunk or saga?
+Can you explain how to combine multiple reducers in Redux?
+Can you explain how to use the connect function from the react-redux library to connect a React component to a Redux store?
+Can you explain the concept of reselect and how it can be used in Redux to improve performance?
+Can you explain how to use the bindActionCreators function from the Redux library to bind action creators to a dispatch function?
+Can you explain the concept of normalization in Redux and how it can be used to improve performance and reduce complexity?
+Can you explain the concept of memoization in Redux and how it can be used to improve performance?
+Can you explain the concept of a state selector in Redux and how it can be used to extract specific data from the store?
+Can you explain the concept of a higher-order component in Redux and how it can be used to reuse logic across multiple components?
+Can you explain how to implement a simple middleware in Redux to log actions and state changes?
+Can you explain how to implement a simple middleware in Redux to handle asynchronous requests?
+Can you explain how to implement a simple middleware in Redux to handle optimistic updates?
+Can you explain how to handle global state changes in Redux?
+Can you explain the concept of action types in Redux and why they are important?
+Can you explain the concept of action creators in Redux and how they can be used to simplify action dispatch in your application?
+Can you explain the concept of combineReducers in Redux and how it can be used to simplify your reducer logic?
+Can you explain how to handle multiple stores in Redux?
+Can you explain the difference between plain objects and Immutable.js objects in Redux?
+Can you explain the difference between state and props in Redux?
+Can you explain how to manage React component state using the Redux store?
+Can you explain how to implement optimistic updates in Redux?
+Can you explain how to implement pagination in Redux?
+Can you explain how to implement form handling in Redux?
+Can you explain how to implement undo/redo functionality in Redux?
+Can you explain how to implement complex data structures in Redux, such as trees and graphs?
+Can you explain the difference between Redux and Flux architecture?
+Can you explain how to test a Redux store and its related components?
+Can you explain how to implement a production-ready Redux store?
+Can you explain the trade-offs of using Redux in a large-scale application?
+Can you explain how to manage shared state between multiple applications using Redux?
+Can you explain how to handle server-side rendering in a Redux-powered application?
+Can you explain how to handle real-time data updates in a Redux-powered application?
+Can you explain the role of

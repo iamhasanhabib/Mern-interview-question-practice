@@ -1,0 +1,47 @@
+Can you define what an API is?
+Can you explain the difference between an API and an SDK?
+Can you explain the differences between REST and SOAP API?
+Can you explain the principles of REST API design?
+Can you explain the HTTP methods used in REST API (GET, POST, PUT, PATCH, DELETE)?
+Can you explain the differences between API and Web Services?
+Can you explain the API request and response structure?
+Can you explain what JSON and XML are and when to use each?
+Can you explain how to secure an API?
+Can you explain how to handle authentication and authorization in an API?
+Can you explain how to implement OAuth2 for API authentication and authorization?
+Can you explain the difference between JWT and OAuth2?
+Can you explain the concept of API rate limiting and why it is important?
+Can you explain the purpose of API keys and how to use them securely?
+Can you explain the importance of versioning in APIs and how to version an API?
+Can you explain the importance of documentation in APIs and how to write good API documentation?
+Can you explain what CORS is and how it affects API requests?
+Can you explain how to handle errors and exceptions in an API?
+Can you explain what HATEOAS is and why it is important in APIs?
+Can you explain the difference between synchronous and asynchronous APIs?
+Can you explain what an API Gateway is and why it is important?
+Can you explain how to test an API?
+Can you explain what an API contract is and why it is important?
+Can you explain how to cache API responses for improved performance?
+Can you explain the concept of API lifecycle management?
+Can you explain the importance of data validation in APIs?
+Can you explain the difference between public and private APIs?
+Can you explain how to monitor and log API usage?
+Can you explain how to scale an API to handle increased traffic?
+Can you explain how to handle large payloads in APIs?
+Can you explain the role of API management tools in API development and deployment?
+Can you explain the role of API gateways in API management?
+Can you explain the role of API proxies in API management?
+Can you explain how to implement API security best practices?
+Can you explain the importance of API standardization and how to standardize APIs?
+Can you explain the difference between API first and code first approaches to API development?
+Can you explain how to handle stateful interactions in APIs?
+Can you explain the importance of API discovery and how to enable API discovery?
+Can you explain the role of API marketplaces in API development and deployment?
+Can you explain the concept of microservices and how they relate to APIs?
+Can you explain the difference between server-side and client-side APIs?
+Can you explain the importance of API governance and how to implement API governance best practices?
+Can you explain how to implement API-based integration between different systems?
+Can you explain the role of API sandboxes in API development and testing?
+Can you explain the difference between API and Webhooks?
+Can you explain how to implement serverless APIs?
+Can you explain the

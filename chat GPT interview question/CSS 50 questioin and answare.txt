@@ -1,0 +1,42 @@
+What is CSS and what is it used for?
+Can you explain the box model in CSS?
+What is the difference between responsive and adaptive design?
+Can you explain the difference between inheritance and cascading in CSS?
+What is the purpose of using CSS selectors?
+Can you explain the difference between ID and class selectors in CSS?
+Can you explain the difference between inline, internal, and external styles in CSS?
+What is the purpose of using media queries in CSS?
+What is the difference between the float and clear properties in CSS?
+Can you explain the difference between absolute and relative positioning in CSS?
+Can you explain the difference between the display property values of inline, block, and inline-block?
+Can you explain the difference between the visibility and display properties in CSS?
+Can you explain the purpose of the z-index property in CSS?
+What is the difference between padding and margin in CSS?
+What is the purpose of using CSS grid and flexbox layout systems?
+What is the difference between a responsive and a fixed-width layout in CSS?
+Can you explain the difference between a background image and a sprite in CSS?
+What is the purpose of using CSS transitions and animations?
+Can you explain the difference between CSS animations and JavaScript animations?
+Can you explain the difference between @import and <link> in CSS?
+Can you explain the difference between normalize.css and reset.css?
+Can you explain the purpose of the !important rule in CSS?
+What are CSS vendor prefixes and why are they used?
+Can you explain the difference between CSS variables and preprocessor variables?
+Can you explain the purpose of CSS frameworks and which ones you have used?
+Can you explain the difference between responsive images and responsive text in CSS?
+What is the purpose of using CSS sprites for icons and other graphics?
+Can you explain the difference between server-side and client-side styles in CSS?
+What is the purpose of using CSS preprocessors such as Sass and Less?
+Can you explain the difference between responsive design and mobile-first design in CSS?
+Can you explain the purpose of the :hover, :focus, and :active pseudo-classes in CSS?
+Can you explain the difference between rem and em units in CSS?
+What is the purpose of using CSS media types and media queries?
+Can you explain the difference between responsive design and adaptive design in CSS?
+Can you explain the difference between responsive design and responsive web design?
+What is the purpose of using CSS frameworks such as Bootstrap and Foundation?
+Can you explain the difference between responsive and fluid design in CSS?
+What is the purpose of using CSS grid and flexbox layout systems?
+Can you explain the difference between fixed and liquid layout in CSS?
+Can you explain the purpose of using CSS preprocessors such as Sass and Less?
+Can you explain the difference between responsive and fixed-width design in CSS?
+Can you explain the difference between server-side and client-side styles in CSS?

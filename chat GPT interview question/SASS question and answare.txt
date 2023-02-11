@@ -1,0 +1,48 @@
+Can you explain what Sass is and how it differs from CSS?
+Can you explain the benefits of using Sass over CSS?
+Can you explain the syntax and structure of Sass?
+Can you explain how to use variables in Sass?
+Can you explain how to use mixins in Sass?
+Can you explain how to use functions in Sass?
+Can you explain how to use inheritance in Sass?
+Can you explain how to use control directives in Sass (if, for, each, while)?
+Can you explain the difference between @extend and @mixin in Sass?
+Can you explain how to use placeholders in Sass?
+Can you explain how to use nested selectors in Sass?
+Can you explain the difference between & and % in Sass?
+Can you explain how to use color functions in Sass?
+Can you explain how to use mathematical operations in Sass?
+Can you explain how to use string functions in Sass?
+Can you explain how to use list functions in Sass?
+Can you explain how to use map functions in Sass?
+Can you explain how to use import statements in Sass?
+Can you explain how to use partials in Sass?
+Can you explain how to use media queries in Sass?
+Can you explain how to use loops in Sass?
+Can you explain how to use mixins with parameters in Sass?
+Can you explain how to use conditionals in Sass?
+Can you explain how to use the @content directive in Sass mixins?
+Can you explain how to use the @each directive in Sass?
+Can you explain how to use the @for directive in Sass?
+Can you explain how to use the @if directive in Sass?
+Can you explain how to use the @else directive in Sass?
+Can you explain how to use the @return directive in Sass?
+Can you explain how to use the @error directive in Sass?
+Can you explain how to use the @debug directive in Sass?
+Can you explain how to use the @warn directive in Sass?
+Can you explain the use of !default flag in Sass variables?
+Can you explain the use of !important flag in Sass?
+Can you explain how to use the @extend directive in Sass?
+Can you explain how to use the @mixin directive in Sass?
+Can you explain how to use the @include directive in Sass?
+Can you explain how to use the @function directive in Sass?
+Can you explain the difference between @mixin and @function in Sass?
+Can you explain how to use the @return directive in Sass functions?
+Can you explain how to use the @media directive in Sass?
+Can you explain how to use the @import directive in Sass?
+Can you explain how to use the @use directive in Sass?
+Can you explain how to use the @at-root directive in Sass?
+Can you explain how to use the @forward directive in Sass?
+Can you explain how to use the @else if directive in Sass?
+Can you explain how to use the @supports directive in Sass?
+Can you explain how to use the @keyframes directive in Sass?

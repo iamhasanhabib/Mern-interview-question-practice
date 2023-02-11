@@ -1,0 +1,62 @@
+Can you explain what Tailwind CSS is and what it does?
+Can you describe the utility-first approach in Tailwind CSS?
+Can you explain the difference between responsive and utility classes in Tailwind CSS?
+Can you explain how to set up Tailwind CSS in a new project?
+Can you explain how to customize the default theme in Tailwind CSS?
+Can you explain how to create custom utility classes in Tailwind CSS?
+Can you explain the concept of screens and breakpoints in Tailwind CSS?
+Can you explain the concept of variants in Tailwind CSS?
+Can you explain how to use the @apply directive in Tailwind CSS?
+Can you explain the difference between inline and block level elements in Tailwind CSS?
+Can you explain how to create responsive designs using Tailwind CSS?
+Can you explain the concept of negative margins in Tailwind CSS?
+Can you explain the difference between flexbox and grid layouts in Tailwind CSS?
+Can you explain how to use the gap and grid-template-columns utility classes in Tailwind CSS?
+Can you explain the difference between text and font utility classes in Tailwind CSS?
+Can you explain how to use the text-center, text-left, and text-right utility classes in Tailwind CSS?
+Can you explain how to use the text-sm, text-base, text-lg, and text-xl utility classes in Tailwind CSS?
+Can you explain how to use the font-hairline, font-thin, font-light, font-normal, font-medium, font-semibold, font-bold, and font-extrabold utility classes in Tailwind CSS?
+Can you explain the concept of tracking, kerning, and leading in Tailwind CSS?
+Can you explain how to use the leading-none, leading-tight, leading-snug, leading-normal, and leading-loose utility classes in Tailwind CSS?
+Can you explain the difference between padding and margin utility classes in Tailwind CSS?
+Can you explain how to use the p-0, p-1, p-2, p-3, p-4, p-5, p-6, p-8, p-10, and p-12 utility classes in Tailwind CSS?
+Can you explain how to use the m-0, m-1, m-2, m-3, m-4, m-5, m-6, m-8, m-10, and m-12 utility classes in Tailwind CSS?
+Can you explain the concept of shadow utility classes in Tailwind CSS?
+Can you explain how to use the shadow-none, shadow-sm, shadow, shadow-md, shadow-lg, and shadow-xl utility classes in Tailwind CSS?
+Can you explain the concept of border utility classes in Tailwind CSS?
+Can you explain how to use the border-0, border-2, border-4, border-8, and border-t utility classes in Tailwind CSS?
+Can you explain how to use the rounded-none, rounded-sm, rounded, rounded-lg, rounded-full, and rounded-t utility classes in Tailwind CSS?
+Can you explain the concept of opacity utility classes in Tailwind CSS?
+Can you explain how
+Can you explain what Tailwind CSS is and how it differs from other CSS frameworks?
+Can you explain the benefits of using Tailwind CSS over other CSS frameworks or vanilla CSS?
+Can you explain how to set up a project with Tailwind CSS?
+Can you explain the core concepts of Tailwind CSS, such as utility classes and responsiveness?
+Can you explain how to use responsive design with Tailwind CSS?
+Can you explain how to customize and extend Tailwind CSS to fit your needs?
+Can you explain the difference between Tailwind CSS and traditional CSS frameworks like Bootstrap?
+Can you explain how to use the Tailwind CSS documentation to find and implement specific styles?
+Can you explain how to use the tailwind.config.js file to customize your setup?
+Can you explain how to use the @apply directive in Tailwind CSS to reuse styles across your application?
+Can you explain how to use utility classes in Tailwind CSS for common styles like text alignment and padding?
+Can you explain how to use screen size variants in Tailwind CSS to apply styles based on screen size?
+Can you explain how to use text styles in Tailwind CSS, such as font size, font weight, and text color?
+Can you explain how to use color variants in Tailwind CSS to apply styles based on context or theme?
+Can you explain how to use border variants in Tailwind CSS to apply border styles such as color and width?
+Can you explain how to use background variants in Tailwind CSS to apply background styles such as color and gradient?
+Can you explain how to use spacing variants in Tailwind CSS to apply margin and padding styles?
+Can you explain how to use flexbox styles in Tailwind CSS to control layout and alignment?
+Can you explain how to use grid styles in Tailwind CSS to create flexible and responsive grids?
+Can you explain how to use width and height styles in Tailwind CSS to control the size of elements?
+Can you explain how to use display styles in Tailwind CSS to control the display type of elements?
+Can you explain how to use overflow styles in Tailwind CSS to control how content overflows an element?
+Can you explain how to use position styles in Tailwind CSS to control the position of elements on the page?
+Can you explain how to use typography styles in Tailwind CSS, such as font size, line height, and letter spacing?
+Can you explain how to use text transforms in Tailwind CSS, such as uppercase, lowercase, and capitalization?
+Can you explain how to use text shadows in Tailwind CSS to add depth and dimension to text?
+Can you explain how to use hover styles in Tailwind CSS to change styles when an element is hovered?
+Can you explain how to use active styles in Tailwind CSS to change styles when an element is active or focused?
+Can you explain how to use transition styles in Tailwind CSS to smoothly transition between styles when an element changes?
+Can you explain how to use transform styles in Tailwind CSS to manipulate the position, size, and orientation of elements?
+Can you explain how to use animation styles in Tailwind CSS to add animation and motion to elements?
+Can you explain how to use object-fit styles in Tailwind CSS to control how images and other content fit within an element?

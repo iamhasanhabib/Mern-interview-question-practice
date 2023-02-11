@@ -1,0 +1,45 @@
+What is HTML and what is it used for?
+What are HTML tags and how do they work?
+Can you explain the difference between HTML and XHTML?
+What is the purpose of using CSS with HTML?
+What is the difference between inline, internal, and external styles?
+How do you create a link in HTML?
+How do you add an image to a web page using HTML?
+What is the difference between HTML elements and tags?
+How do you create tables in HTML?
+What is the purpose of using semantic elements in HTML5?
+How do you create a form in HTML?
+What is the <head> element used for in HTML?
+How do you use HTML lists to structure content?
+Can you explain the difference between the <div> and <span> elements?
+How do you add audio and video to a web page in HTML5?
+What is the difference between HTML4 and HTML5?
+What is the purpose of using HTML attributes?
+What is the difference between the <strong> and <b> tags?
+What is the difference between the <em> and <i> tags?
+Can you explain the difference between a block-level and an inline element?
+What is the purpose of using HTML comments?
+What is the purpose of using HTML character entities?
+What is the difference between a relative and absolute URL in HTML?
+What is the <iframe> element used for in HTML?
+What is the purpose of using HTML meta tags?
+Can you explain the difference between the <header>, <footer>, and <nav> elements in HTML5?
+What is the difference between the <ol> and <ul> tags?
+How do you create a responsive design using HTML and CSS?
+What is the difference between HTML5 semantic elements and traditional HTML elements?
+How do you use HTML to create a responsive navigation menu?
+What is the purpose of using HTML5 semantic elements for accessibility?
+Can you explain the difference between the <article> and <section> elements in HTML5?
+How do you create a layout using HTML and CSS?
+Can you explain the difference between HTML and HTML5 semantic elements?
+How do you create a responsive grid layout using HTML and CSS?
+What is the purpose of using HTML5 web storage?
+Can you explain the difference between HTML and HTML5 form controls?
+What is the purpose of using HTML5 geolocation?
+Can you explain the difference between HTML and HTML5 multimedia elements?
+What is the purpose of using HTML5 web workers?
+Can you explain the difference between HTML and HTML5 APIs?
+How do you create a mobile-friendly design using HTML and CSS?
+What is the purpose of using HTML5 canvas element?
+Can you explain the difference between HTML and HTML5 web sockets?
+How do you use HTML to create a responsive slider?

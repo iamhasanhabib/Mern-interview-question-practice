@@ -1,0 +1,46 @@
+What is JavaScript and what is it used for?
+Can you explain the difference between let, const, and var in JavaScript?
+What is hoisting in JavaScript and how does it work?
+Can you explain the difference between == and === in JavaScript?
+What is closure in JavaScript and how does it work?
+Can you explain the difference between null and undefined in JavaScript?
+Can you explain the concept of prototype-based inheritance in JavaScript?
+What is the difference between synchronous and asynchronous code in JavaScript?
+What is event bubbling and event capturing in JavaScript?
+Can you explain the difference between call, apply, and bind in JavaScript?
+Can you explain the concept of "this" in JavaScript?
+Can you explain the difference between an anonymous function and a named function in JavaScript?
+What is a higher-order function in JavaScript and how does it work?
+Can you explain the difference between a for loop and a forEach loop in JavaScript?
+What is a closure and how is it used in JavaScript?
+Can you explain the difference between an object and an array in JavaScript?
+Can you explain the difference between a Map and an Object in JavaScript?
+What is the difference between let and var in JavaScript?
+Can you explain the difference between == and === in JavaScript?
+Can you explain the difference between parseInt and parseFloat in JavaScript?
+What is the difference between null and undefined in JavaScript?
+What is hoisting in JavaScript and how does it work?
+Can you explain the difference between a while loop and a do while loop in JavaScript?
+What is a closure and how is it used in JavaScript?
+Can you explain the difference between an object and an array in JavaScript?
+Can you explain the difference between a Map and an Object in JavaScript?
+What is the difference between "null" and "undefined" in JavaScript?
+Can you explain the difference between == and === in JavaScript?
+Can you explain the difference between "undefined" and "not defined" in JavaScript?
+What is a closure and how is it used in JavaScript?
+Can you explain the difference between a for loop and a forEach loop in JavaScript?
+Can you explain the difference between a while loop and a do while loop in JavaScript?
+What is a higher-order function in JavaScript and how does it work?
+Can you explain the concept of "this" in JavaScript?
+Can you explain the difference between call, apply, and bind in JavaScript?
+Can you explain the difference between an anonymous function and a named function in JavaScript?
+What is event bubbling and event capturing in JavaScript?
+What is the difference between synchronous and asynchronous code in JavaScript?
+Can you explain the concept of prototype-based inheritance in JavaScript?
+Can you explain the difference between null and undefined in JavaScript?
+What is hoisting in JavaScript and how does it work?
+Can you explain the difference between == and === in JavaScript?
+Can you explain the difference between let, const, and var in JavaScript?
+What is closure in JavaScript and how does it work?
+Can you explain the difference between a for loop and a forEach loop in JavaScript?
+What is a higher-order function in
